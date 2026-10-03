@@ -11,6 +11,22 @@
 
 > Notes này ghi lại chính lượt Phạm Quốc Đạt làm interviewer. Nội dung bên dưới bám theo bản ghi và thông tin được thu thập trong buổi practice; không bổ sung phát ngôn giả cho interviewee.
 
+
+## Interview Record theo mẫu Chặng 3
+
+- **Mã người tham gia:** 2A202602612
+- **Đúng tiêu chí tuyển:** Có
+- **Consent ghi âm:** Có
+
+| Điều cần giữ lại | Ghi chép |
+|---|---|
+| **Câu chuyện gần nhất: user đang ở đâu và có làm gì?** | Trong một buổi học trên lớp liên quan đến RAG/RAG-related content ở Phase 1, người được phỏng vấn đang nghe giảng và ghi chú các nội dung/từ khóa để xem lại. |
+| **User đã thực sự làm gì?** | Người được phỏng vấn chỉ ghi lại các đề mục chính/từ khóa, ví dụ “RAG”, thay vì ghi toàn bộ phần giải thích của giảng viên. |
+| **Khó khăn và workaround đã dùng** | Giảng viên giảng và trả lời câu hỏi nhanh nên người học không ghi kịp phần giải thích và chủ yếu giữ lại từ khóa. Sau buổi học, khi cần hiểu lại, người học tìm hiểu lại hoặc hỏi AI. |
+| **Hậu quả hoặc chi phí** | Khi về nhà, người học không chắc nội dung mình nhớ/ghi có đúng với phần giảng viên giải thích hay không và có thể nhớ hoặc hiểu sai; vì vậy phải tìm hiểu lại. |
+| **Điều bất ngờ, trái giả thuyết hoặc một exact quote** | Evidence nổi bật trong interview là việc không ghi kịp phần giải thích và mất ngữ cảnh. Exact quote từ recording: “mình chỉ ghi những cái đề mục chính” và “mình chỉ ghi những cái từ khóa liên quan thôi.” |
+
+
 ---
 
 ## Recruitment check
